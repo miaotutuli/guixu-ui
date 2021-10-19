@@ -68,15 +68,15 @@
 - 安装组件库
 
 - ```
-  yarn add gx-ui
+  yarn add guixu-ui 或 npm i guixu-ui
   ```
 
 - 全局导入
 
 - ```
-  import GuiXuUI from 'gx-ui';
-  import 'gx-ui/lib/gxui.css';
-  Vue.use(GuiXuUI);
+  import GuiXuUI from "guixu-ui"
+  import "guixu-ui/dist/guixu-ui.css"
+  Vue.use(GuiXuUI)
   ```
 
 - 
