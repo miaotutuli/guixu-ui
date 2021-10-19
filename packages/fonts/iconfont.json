@@ -1,0 +1,58 @@
+{
+  "id": "2871791",
+  "name": "fonts",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1327509",
+      "name": "view",
+      "font_class": "view",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "6616997",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "eca0",
+      "unicode_decimal": 60576
+    },
+    {
+      "icon_id": "23923192",
+      "name": "棒球",
+      "font_class": "bangqiu",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "23923193",
+      "name": "保龄球",
+      "font_class": "baolingqiu",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "23923194",
+      "name": "橄榄球",
+      "font_class": "ganlanqiu",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "23923195",
+      "name": "击剑",
+      "font_class": "jijian",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "23923196",
+      "name": "骑行",
+      "font_class": "qihang",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    }
+  ]
+}
